@@ -14,6 +14,7 @@ The author has created some handy MaxMSP patches for some OSC application on pho
 
 1、GyrOSC Package Version 2.5.1.maxpat 
 GyrOSC Package Version 2.5.1 Copyright © 2010 Kevin Schlei Bit Shape Software, LLC
+Purchase, 1💲.
 DownLoad here: https://apps.apple.com/cn/app/gyrosc/id418751595
 
 This is a matcher for the GyrOSC mobile application to facilitate the rapid construction of mobile phone based sensors for OSC communication. The   patcher provides a basic visualisation of some data to facilitate understanding and testing of complex sensor data.
