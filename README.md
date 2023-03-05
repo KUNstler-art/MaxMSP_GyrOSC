@@ -1,7 +1,8 @@
 # MaxMSP
-# OSC communication
-# Interaction art; 
-# Performances;
+#OSC communication
+
+Interaction art; 
+Performances;
 
 Introduction
 Some handy MaxMSP patchers for OSC communication made by the author; 
