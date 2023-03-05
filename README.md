@@ -1,19 +1,21 @@
 # MaxMSP
+# OSC communication
+# Interaction art; 
+# Performances;
 
-Introduction & Good for
-Some handy patchers for MaxMSP made by the author; 
-The author has created some handy MaxMSP patches; 
-Interaction art; 
-Performances;
+Introduction
+Some handy MaxMSP patchers for OSC communication made by the author; 
+The author has created some handy MaxMSP patches for some OSC application on phone; 
 
 
 /////////////////////////////Peoject catalogs/////////////////////////////
       
 
-1、GyrOSC Package Version 2.5.1.maxpat
-//GyrOSC-Patcher(GyrOSC Package Version 2.5.1 Copyright © 2010 Kevin Schlei Bit Shape Software, LLC)
-DownLoad: https://apps.apple.com/cn/app/gyrosc/id418751595
-//This is a matcher for the GyrOSC mobile application to facilitate the rapid construction of mobile phone based sensors for OSC communication. The   patcher provides a basic visualisation of some data to facilitate understanding and testing of complex sensor data.
+1、GyrOSC Package Version 2.5.1.maxpat 
+GyrOSC Package Version 2.5.1 Copyright © 2010 Kevin Schlei Bit Shape Software, LLC
+DownLoad here: https://apps.apple.com/cn/app/gyrosc/id418751595
+
+This is a matcher for the GyrOSC mobile application to facilitate the rapid construction of mobile phone based sensors for OSC communication. The   patcher provides a basic visualisation of some data to facilitate understanding and testing of complex sensor data.
 Install:
 1. Download GyrOSC version 2.5.1 for mobile phones.
 2. Download the patcher and open it with MaxMSP.
