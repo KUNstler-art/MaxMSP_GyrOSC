@@ -1,9 +1,10 @@
-# MaxMSP
-#OSC
-#GyrOSC
+# MaxMSP  
+# OSC
+# GyrOSC
+# gyroscope 
 
 Introduction
-The author has created some handy MaxMSP patches for some OSC application on phone, it's for interaction art and Performances;
+MaxMSP patches for some OSC application on phone, it's for interaction art and Performances;
 These patchers visualise the phone's abstract gyroscope data, making users easier to understand and apply this data.
 
 /////////////////////////////Peoject catalogs/////////////////////////////
