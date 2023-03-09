@@ -1,12 +1,11 @@
 # MaxMSP
-#OSC communication
-
-Interaction art; 
-Performances;
+#OSC
+#GyrOSC
 
 Introduction
-Some handy MaxMSP patchers for OSC communication made by the author; 
-The author has created some handy MaxMSP patches for some OSC application on phone; 
+The author has created some handy MaxMSP patches for some OSC application on phone, it's for interaction art and Performances;
+These patchers visualise the phone's abstract gyroscope data, making users easier to understand and apply this data.
+
 
 
 /////////////////////////////Peoject catalogs/////////////////////////////
