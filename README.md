@@ -7,7 +7,7 @@ Introduction
 Those are some MaxMSP patches for OSC communication with phone, normally, for interaction art and Performances;
 These patchers visualise the phone's abstract gyroscope data, making users easier to understand and apply this data.
 
-Peoject catalogs////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+Peoject catalogs///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
    
 1、GyrOSC Package Version 2.5.1.maxpat 
 GyrOSC Package Version 2.5.1 Copyright © 2010 Kevin Schlei Bit Shape Software, LLC
