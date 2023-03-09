@@ -11,6 +11,7 @@ Peoject catalogs////////////////////////////////////////////////////////////////
    
 1、GyrOSC Package Version 2.5.1.maxpat 
 ![image](https://github.com/KUNstler-art/MaxMSP_GyrOSC/blob/main/Screenshot%202023-03-09%20at%2022.02.14.png?raw=true)
+![image](https://github.com/KUNstler-art/MaxMSP_GyrOSC/blob/main/IMG_9464.jpg?raw=true)
 GyrOSC Package Version 2.5.1 Copyright © 2010 Kevin Schlei Bit Shape Software, LLC
 Purchase, 1💲.
 DownLoad here: https://apps.apple.com/cn/app/gyrosc/id418751595
